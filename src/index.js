@@ -1,4 +1,4 @@
-import range from "../node_modules/underscore/modules/range.js";
+import range from "underscore/modules/range";
 
 import "./echo.js";
 
